@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to Information Slide!"
 ---
-Your text
+I can write code in Python and SQL
 Use the left arrow to go back!
