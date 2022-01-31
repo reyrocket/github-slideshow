@@ -4,6 +4,7 @@ title: "Welcome to the projects slide"
 ---
 
 Hello this slide will show you all the projects I have made but not published on github.
+Note that you may need to zoom out if you cannot see all the projects.
 
 1. Todo app with django
 2. Quiz game
